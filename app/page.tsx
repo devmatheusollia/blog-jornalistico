@@ -12,8 +12,8 @@ const featuredArticle = {
 const articles = [
   {
     id: 1,
-    title: "Só quem gosta de 69",
-    excerpt: "Todos os leitores concordam que o rapper 69 é foda!",
+    title: "Só quem gosta de carros",
+    excerpt: "Teste.",
     date: "December 12, 2024",
     readTime: "6 min read",
     category: "Investigation",
@@ -217,7 +217,7 @@ export default function Home() {
           <div className="border-t border-white/10 pt-8 text-sm text-white/40 flex justify-between items-center">
             <div className="flex flex-col">
               <p>© 2025 The Tribe Journal. Todos os direitos reservados a Leonardo Costa Teixeira.</p>
-              <p>Desenvolvido por: Matheus Ollia e Gustavo Costa Teixeira.</p>
+              <p>Desenvolvido por: Matheus Ollia.</p>
             </div>
             <div className="flex items-center gap-6">
               <a href="#" className="hover:text-white/60 transition-colors">PRIVACIDADE</a>
